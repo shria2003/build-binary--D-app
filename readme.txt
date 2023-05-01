@@ -4,17 +4,17 @@ this how it should look like:
 
 								main topic
 								     |
-							---------------------
-							|				    |
-						topic 2.1			topic 2.2
-							|					|
-				----------------		    ----------------
-				|			    |		   |				|
-			topic 2.1.1		topic2.1.2   ... 				...
-			(if zoomed in)
-				|
-			def,differences,e.g.,videos etc
-			{make it 3d}
+							------------------------
+							|		       |
+						topic 2.1		topic 2.2
+							|			|
+					---------------------		    ---------------------
+					|		    |		   |			|
+				topic 2.1.1		topic2.1.2        ... 			...
+				(if zoomed in)
+					|
+				def,differences,e.g.,videos etc
+				{make it 3d}
 
 										
 
