@@ -2,20 +2,20 @@ HI, this is Shreeya,
 Recently i have been interested in making 3D visualizer web/app that will visualize binary trees. The goal of the concept is for educational purpose. To understand a certain topic, we may find that certain topic goes too deep with lots of differentiating and definition and thus leads us to forgetfullness even after making notes. To earadicate my/your problem, i have come up with a solution that will visually guide and summarize you the topic after making the binary/tertiary tree on it.
 this how it should look like:
 
-															main topic
-															     |
-														---------------------
-														|				    |
-													topic 2.1			topic 2.2
-														|					|
-											----------------		    ----------------
-											|			    |		   |				|
-										topic 2.1.1		topic2.1.2   ... 				...
-										(if zoomed in)
-											|
-										def,differences,e.g.,videos etc
-										{make it 3d}
-								
+								main topic
+								     |
+							---------------------
+							|				    |
+						topic 2.1			topic 2.2
+							|					|
+				----------------		    ----------------
+				|			    |		   |				|
+			topic 2.1.1		topic2.1.2   ... 				...
+			(if zoomed in)
+				|
+			def,differences,e.g.,videos etc
+			{make it 3d}
+
 										
 
 The skeleton has been given , contribute your knowledge and please make it happen 
